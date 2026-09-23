@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Body Silhouette -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M34,36 L40,30 L68,30 L74,36 L82,36 C85.3,36 88,38.7 88,42 L88,74 C88,77.3 85.3,80 82,80 L26,80 C22.7,80 20,77.3 20,74 L20,42 C20,38.7 22.7,36 26,36 L34,36 Z" />
+    
+    <!-- Outer Lens Ring (Accent Gradient) -->
+    <path android:pathData="M54,42 A17,17 0 1,0 54,76 A17,17 0 1,0 54,42 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="45"
+                android:endColor="#8B5CF6"
+                android:startColor="#EC4899"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+    
+    <!-- Inner Lens Aperture -->
+    <path
+        android:fillColor="#15102A"
+        android:pathData="M54,47 A12,12 0 1,0 54,71 A12,12 0 1,0 54,47 Z" />
+    
+    <!-- AI Sparkle / Magic Retouch Star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,28 C78,33 82,34 82,34 C82,34 78,35 78,40 C78,35 74,34 74,34 C74,34 78,33 78,28 Z" />
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M30,26 C30,29 32,30 32,30 C32,30 30,31 30,34 C30,31 28,30 28,30 C28,30 30,29 30,26 Z" />
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M54,53 A6,6 0 1,0 54,65 A6,6 0 1,0 54,53 Z" />
+</vector>

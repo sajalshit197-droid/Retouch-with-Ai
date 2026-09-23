@@ -1,0 +1,6 @@
+{
+  "name": "RetouchAI",
+  "description": "AI-powered photo editor with background removal, professional retouching, lighting adjustments, color grading, and creative filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

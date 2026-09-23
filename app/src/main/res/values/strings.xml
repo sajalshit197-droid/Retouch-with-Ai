@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RetouchAI</string>
+    <string name="title_home">RetouchAI Studio</string>
+    <string name="subtitle_home">AI-Powered Photo Editor &amp; Retouching</string>
+    <string name="action_pick_photo">Choose Photo</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_sample_photos">Try Sample Photos</string>
+    <string name="tab_bg_remove">BG Remove</string>
+    <string name="tab_retouch">AI Retouch</string>
+    <string name="tab_lighting">Lighting</string>
+    <string name="tab_filters">Filters</string>
+    <string name="btn_save">Save Image</string>
+    <string name="btn_compare">Compare</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_magic_enhance">AI Magic Enhance</string>
+    <string name="btn_ai_analysis">AI Expert Review</string>
+</resources>
